@@ -76,7 +76,7 @@ You will recieve the token address on running the deploy script.
 
 ## Authors
 
-Sain Biswas - [sain.biswas614@gmail.com]
+Devansh Sharma - souldestryr@gmail.com
 
 ## License
 
