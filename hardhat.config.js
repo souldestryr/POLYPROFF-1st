@@ -5,12 +5,8 @@ require("dotenv").config();
 module.exports = {
   solidity: "0.8.18",
   networks: {
-    mumbai: {
-      url: 'https://rpc-mumbai.maticvigil.com',
-      accounts: [process.env.PRIVATE_KEY],
-    },
-    goerli: {
-      url: 'https://ethereum-goerli.publicnode.com',
+    sepolia: {
+      url: 'https://sepolia.infura.io/v3/cc6533e3787745a5926b16a75e6641fb',
       accounts: [process.env.PRIVATE_KEY],
     },
   }
